@@ -15,7 +15,6 @@ Bienvenue dans le projet de l'application de gestion de librairie. Suivez ces é
      ```
 
 2. **Configuration de la Base de Données :**
-   - Consultez le fichier [database/access.md](./database/access.md) pour les informations d'accès à la base de données.
    - Exécutez les scripts SQL du dossier evaluation-librairie/if0_35208375_library.sql pour créer les tables nécessaires.
 
 3. **Configuration du Backend :**
@@ -24,7 +23,7 @@ Bienvenue dans le projet de l'application de gestion de librairie. Suivez ces é
 4. **Lancer l'Application :**
    - Démarrez le serveur PHP intégré :
      ```bash
-     cd nom-du-depot/backend
+     cd nom-du-depot
      php -S localhost:8000
      ```
 

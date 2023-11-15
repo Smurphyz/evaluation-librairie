@@ -16,7 +16,7 @@ Bienvenue dans le projet de l'application de gestion de librairie. Suivez ces é
 
 2. **Configuration de la Base de Données :**
    - Consultez le fichier [database/access.md](./database/access.md) pour les informations d'accès à la base de données.
-   - Exécutez les scripts SQL du dossier [database](./database) pour créer les tables nécessaires.
+   - Exécutez les scripts SQL du dossier evaluation-librairie/if0_35208375_library.sql pour créer les tables nécessaires.
 
 3. **Configuration du Backend :**
    - Configurez les paramètres de la base de données dans le fichier `config.php`.

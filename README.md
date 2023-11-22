@@ -15,7 +15,7 @@ Bienvenue dans le projet de l'application de gestion de librairie. Suivez ces é
      ```
 
 2. **Configuration de la Base de Données :**
-   - Exécutez les scripts SQL du dossier evaluation-librairie/if0_35208375_library.sql pour créer les tables nécessaires.
+   - Exécutez les scripts SQL du dossier evaluation-librairie/SQL/library.sql pour créer les tables nécessaires de votre base de donnée.
 
 3. **Configuration du Backend :**
    - Configurez les paramètres de la base de données dans le fichier `config.php`.
@@ -27,9 +27,17 @@ Bienvenue dans le projet de l'application de gestion de librairie. Suivez ces é
      php -S localhost:8000
      ```
 
+     OU
+
+Accédez à l'application en démarrant MAMP, WAMP, XAMP, AMPPS, LARAVEL ou autre.
+
 5. **Accéder à l'Application :**
    - Ouvrez votre navigateur et allez à [http://localhost:8000](http://localhost:8000).
-   - Connectez-vous en utilisant les identifiants d'exemple fournis dans la présentation.
+   - Connectez-vous en utilisant les identifiants d'exemple fournis :
+Rôle Admin :                   Rôle utilisateur : 
+john@smith.com                 marc@lord.com
+azerty                         azerty
+
 
 ---
 
@@ -75,7 +83,3 @@ Si votre application utilise le fichier `.htaccess`, assurez-vous qu'il est corr
 
 Ces étapes devraient vous aider à déployer votre application PHP sur InfinityFree. Assurez-vous de consulter la documentation spécifique d'InfinityFree pour plus d'informations.
 
-- Assurez-vous d'avoir PHP installé sur votre machine.
-- Pour toute question ou problème, contactez l'équipe de développement à [contact@nom-de-lapplication.com](mailto:contact@nom-de-lapplication.com).
-
-Profitez de votre utilisation de l'application de gestion de librairie en local ! 🚀

@@ -36,13 +36,14 @@ Accédez à l'application en démarrant MAMP, WAMP, XAMP, AMPPS, LARAVEL ou autr
    - Connectez-vous en utilisant les identifiants d'exemple fournis :
 Rôle Admin :                    
 john@smith.com                
-azerty                        
+azerty
+
+OU 
 
 Rôle utilisateur : 
 marc@lord.com
-azerty
+azerty                        
   
-
 ---
 
 ### Remarques
